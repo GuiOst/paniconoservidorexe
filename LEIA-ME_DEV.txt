@@ -1,0 +1,19 @@
+﻿PÂNICO NO SERVIDOR - versão 0.12.3 DEV (com painel de admin F10)
+
+1. Na PRIMEIRA vez: rode PUBLICAR_JOGO.bat na pasta do projeto (ele monta os .exe).
+2. Abra PanicoNoServidor_DEV.exe, comece uma partida e aperte F10.
+3. Mantenha o nodetunnel.dll ao lado do .exe.
+
+Esta versão é para VOCÊ testar. Não distribua: ela tem as ferramentas de
+desenvolvimento (teleporte, noclip, Fullbright etc.).
+No multiplayer, só o host é admin; ele pode liberar outros jogadores na aba
+Jogadores. Guia completo: docs/PAINEL_ADMIN.md
+Novo na 0.12.0: aba Narrativa, botões "Expedição: preparo / viagem (van) / fábrica /
+Casa de Máquinas 2 / subsolo".
+Da 0.11.0: na aba Narrativa, "Ir para o laboratório" / "Voltar ao prólogo"
+e pular etapas do prólogo (rua, almoço, notícia).
+Da 0.10.0: aba "Narrativa, diálogos e IA" (elenco e cores, fala atual, cenas,
+tocar diálogos e cenas, pular, flags, interface discreta e comandos dos amigos de IA).
+Da 0.9.0: aba Inventário e sobrevivência com atributos, armas, carregadores,
+reservas e pontos de aparecimento.
+Da 0.9.0: aba Monstro (O Vigia) com estado, alvo, forçar estados, testes e teleporte de depuração.
